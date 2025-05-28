@@ -10,7 +10,7 @@ import openfl.utils.Assets as OpenFlAssets;
 import objects.HealthIcon;
 import states.editors.ChartingState;
 
-import substates.GameplayChangersSubstate;
+import options.GameplayChangersSubstate;
 import substates.ResetScoreSubState;
 
 #if MODS_ALLOWED
